@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\MP3Player2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\MP3Player2\app\build\intermediates\pre-dexed\debug\classes-5e54d8a94fc688e7710d2826149cff7789ee1ac6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jente\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Schooljaar 14-15\Semester 2\Project ICT4\MP3Player2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-79a7de012162a96c8abc224a830c3e3ec11e35d7.jar" />
+    </item>
+    <item
+        jar="E:\Schooljaar 14-15\Semester 2\Project ICT4\MP3Player2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Schooljaar 14-15\Semester 2\Project ICT4\MP3Player2\app\build\intermediates\pre-dexed\debug\classes-96e23bea9551de96e4a5825e5f4e1f4b2c6af1ee.jar" />
+    </item>
+    <item
+        jar="E:\MP3Player2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\MP3Player2\app\build\intermediates\pre-dexed\debug\classes-bbc4aa096e7a40b7ae780af5ebf0c114f65be804.jar" />
+    </item>
+    <item
+        jar="E:\Schooljaar 14-15\Semester 2\Project ICT4\MP3Player2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Schooljaar 14-15\Semester 2\Project ICT4\MP3Player2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-9165a33f45c4613733648f8a403c0707df1d16ae.jar" />
+    </item>
+    <item
+        jar="E:\Schooljaar 14-15\Semester 2\Project ICT4\MP3Player2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Schooljaar 14-15\Semester 2\Project ICT4\MP3Player2\app\build\intermediates\pre-dexed\debug\classes-aad56a28209f251963f4507856e561824c3446e0.jar" />
+    </item>
+    <item
+        jar="E:\MP3Player2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\MP3Player2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-ae23bd07c5be43b21a91cd5f201fb916d5f4ae7d.jar" />
+    </item>
+
+</items>

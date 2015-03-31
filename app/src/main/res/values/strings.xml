@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RunSound</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    //main menu strings
+    <string name="main_menu_string">Main Menu</string>
+    <string name="options_string">Options</string>
+    <string name="music_mode_string">Music Mode</string>
+    <string name="run_mode_string">Run Mode</string>
+    <string name="statistics_string">Statistics</string>
+    <string name="facebook_string">Facebook</string>
+    <string name="description">Media Controls</string>
+
+
+</resources>
